@@ -26,8 +26,8 @@ This bundle contains my personal setup for ```cmder```. Which includes the follo
     - ```Ctrl + Alt + S``` for splitting the current panel vertically by 50%
     - ```Ctrl + Alt + D``` for splitting the current panel horizontally by 50%
     - ```Alt + Shift + {W,A,S,D}``` navigate in between the splitted panels
-    - ````Ctrl + Alt + Shift + G``` Open a 2x2 grid with admin privileges (```vagrant``` + windows ```symslink``` requirement).
-    - ````Ctrl + Alt + Shift + S``` Open a terminal with admin privileges (```vagrant``` + windows ```symslink``` requirement).
+    - ```Ctrl + Alt + Shift + G``` Open a 2x2 grid with admin privileges (```vagrant``` + windows ```symslink``` requirement).
+    - ```Ctrl + Alt + Shift + S``` Open a terminal with admin privileges (```vagrant``` + windows ```symslink``` requirement).
 - Alias ```ll``` as ```ls -la```
 - Support for ```utf-8``` and unicode already set
 
